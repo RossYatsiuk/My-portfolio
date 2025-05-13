@@ -1,43 +1,36 @@
-# Портфоліо розробника
+Портфоліо розробника
+Це навчальний SPA-проєкт, створений з використанням React. Він включає три сторінки з маршрутизацією, API-запит і слугує базовим шаблоном мого портфоліо.
 
-Це навчальний SPA-проєкт, створений за допомогою React. Він містить три сторінки з маршрутизацією та API-запитом, і є базовим шаблоном мого портфоліо.
+Опис сторінок
+/about
+Інформація про мене як особистість і розробницю
+Цінності, навички, досвід навчання
+Розділ "Мої проєкти" з посиланнями на репозиторії HTML+CSS, JavaScript і React
 
-## Опис сторінок
+/my-city
+Опис мого рідного міста Василькова
+API-запит до OpenWeatherMap із використанням useEffect та useState
+Виводяться: температура, опис погоди, координати
 
-### /about
+/my-future
+Три кроки до мого майбутнього
+Натхненна цитата
+Опис роботи мрії
+Таймлайн і надихаючі зображення
 
-- Інформація про мене як людину та розробницю
-- Особисті цінності, захоплення, досвід навчання
-- Блок "Мої проєкти" з посиланнями на репозиторії HTML+CSS, JavaScript та React
+Використані технології
+React
+React Router
+useState, useEffect
+OpenWeatherMap API
+CSS Modules
+react-icons
 
-### /my-city
-
-- Опис міста Рівне
-- API-запит до OpenWeatherMap з використанням useEffect та useState
-- Виводиться: температура, опис погоди, координати, країна
-
-### /my-future
-
-- Три кроки у майбутнє
-- Мотиваційна цитата
-- Робота мрії
-- Таймлайн та зображення, що надихають
-
-## Технології
-
-- React
-- React Router
-- useState, useEffect
-- OpenWeatherMap API
-- CSS Modules
-- react-icons
-
-## Структура проєкту
-
-api/ // запити до зовнішніх API (OpenWeatherMap)
-components/ // спільні компоненти (Header, Footer)
-pages/ // окремі сторінки: AboutMe, MyCity, MyFuture
+Структура проєкту
+api/         // запити до зовнішніх API (OpenWeatherMap)  
+components/  // спільні компоненти: Header, Footer  
+pages/       // окремі сторінки: AboutMe, MyCity, MyFuture  
 
 ## Соцмережі
-- [GitHub](https://github.com/MariaValenshtak)
-- [Telegram](https://t.me/valenshtakova)
+- [GitHub](https://github.com/RossYatsiuk)
+- [Telegram](https://web.telegram/MercyStyle)
